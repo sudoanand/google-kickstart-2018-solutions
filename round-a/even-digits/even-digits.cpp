@@ -118,7 +118,7 @@ long long int beautifulNumberDistance(long long int num){
 
 
 int main(){
-    freopen("../stdin.txt","r",stdin);
+    //freopen("../stdin.txt","r",stdin);
 
     int i,n;
     cin >> n;
