@@ -1,3 +1,4 @@
+#Solution incomplete
 import sys
 
 sys.stdin = open('/Users/hack4mer/Lab/stdin.txt', 'r')
